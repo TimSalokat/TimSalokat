@@ -6,63 +6,57 @@
   - https://github.com/cheesits456/cheesits456
 -->
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Tim</h1>
-<!-- <h3 align="left">I do not know what to put here</h3> -->
+<h1>:wave: Hello there &lt;developers/&gt; </h1>
+<h3>I'm Tim, Software Engineering student and full-time software developer at OTTO in Germany. <br> The following page is an introduction of me and the work i do :)</h3>
 
 <br>
 
-## Favorite Tech
-Tools, languages, and other things that I like to work with.
+## My Favorite Tech
+<h3> Tools, languages, and other things that I like to work with. </h3>
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="#">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>Jsonnet
+      <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
       </a>
-      <br>TypeScript
+      <br>Svelte
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
       </a>
-      <br>Kubernetes
+      <br>Bash
+    </td> 
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="Github Actions" />
+      </a>
+      <br>Github Actions
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
+      <a href="#" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
     </td>
   </tr>
 </table>
