@@ -6,10 +6,8 @@
   - https://github.com/cheesits456/cheesits456
 -->
 
-<h1>:wave: Hello there &lt;developers/&gt; </h1>
+<h1>Hey there, <i>&lt;developers/&gt;</i> :wave: </h1>
 <p>I'm Tim, Software Engineering student and full-time software developer at OTTO in Germany. <br> The following page is an introduction of me and the work i do :)</p>
-
-<br>
 
 ## My Favorite Tech
 <p> Tools, languages, and other things that I like to work with. </p>
