@@ -6,8 +6,10 @@
   - https://github.com/cheesits456/cheesits456
 -->
 
-<h1>Hey there, <i>&lt;developers/&gt;</i> :wave: </h1>
-<p>I'm Tim, Software Engineering student and full-time software developer at OTTO in Germany. <br> The following page is an introduction of me and the work i do :)</p>
+<h1 align='left'>Hey there, <i>&lt;developers/&gt;</i> :wave: 
+<img align='right' style='height: 140px; border-radius: 15px;' src='https://c.tenor.com/9fV87rRDzDgAAAAC/tenor.gif'> </h1>
+<p align='left'>I'm Tim, Software Engineering student and full-time software developer at OTTO in Germany. <br> The following page is an introduction of me and the work i do :)</p>
+
 
 ## My Favorite Tech
 <p> Tools, languages, and other things that I like to work with. </p>
