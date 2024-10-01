@@ -7,12 +7,12 @@
 -->
 
 <h1>:wave: Hello there &lt;developers/&gt; </h1>
-<h3>I'm Tim, Software Engineering student and full-time software developer at OTTO in Germany. <br> The following page is an introduction of me and the work i do :)</h3>
+<p>I'm Tim, Software Engineering student and full-time software developer at OTTO in Germany. <br> The following page is an introduction of me and the work i do :)</p>
 
 <br>
 
 ## My Favorite Tech
-<h3> Tools, languages, and other things that I like to work with. </h3>
+<p> Tools, languages, and other things that I like to work with. </p>
 
 <!-- Icons: https://devicon.dev/ -->
 <table>
