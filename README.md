@@ -7,7 +7,7 @@
 -->
 
 <h1 align='left'>Hey there, <i>&lt;developers/&gt;</i> :wave: 
-<img align='right' style='height: 140px; border-radius: 15px;' src='https://c.tenor.com/9fV87rRDzDgAAAAC/tenor.gif'> </h1>
+<img align='right' style='height: 140px;' src='https://media.tenor.com/ZMv97DV4HakAAAAi/fgd.gif'> </h1>
 <p align='left'>I'm Tim, Software Engineering student and full-time software developer at OTTO in Germany. <br> The following page is an introduction of me and the work i do :)</p>
 
 
