@@ -14,6 +14,7 @@
 ## My Favorite Tech
 <h3> Tools, languages, and other things that I like to work with. </h3>
 
+<!-- Icons: https://devicon.dev/ -->
 <table>
   <tr>
     <td align="center" width="96">
