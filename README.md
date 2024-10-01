@@ -6,14 +6,13 @@
   - https://github.com/cheesits456/cheesits456
 -->
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Tim Salokat</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Tim</h1>
 <!-- <h3 align="left">I do not know what to put here</h3> -->
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
+## Favorite Tech
+Tools, languages, and other things that I like to work with.
 
 <table>
   <tr>
@@ -67,3 +66,10 @@
     </td>
   </tr>
 </table>
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
